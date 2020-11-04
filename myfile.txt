@@ -1,3 +1,4 @@
 Den ca con khi cung hieu duoc lenh git
 add: Dang ky thay doi trong lenh git
 commit: Luu lai trang thai cua index
+pull: lay noi dung cua remote repository
